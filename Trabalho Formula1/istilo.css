@@ -1,0 +1,172 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #9494f3;
+}
+
+.divlogos{
+    position: absolute;
+    top: 2px;
+    width: 10;
+     top: 0px;
+}
+
+.divlogos2{
+    float: right;
+    width: 143;
+
+}
+
+.title{
+    background-color: #9494f3;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff;
+    font-size: 42px;
+    height: 150px;
+    right: 20px;
+    bottom: 30px;
+}
+
+.tabela1{
+    position: relative;
+    margin-left: 250px;
+    top: 50px;
+}
+
+.tabela2{
+    position: relative;
+    margin-left: 600px;
+    bottom: 453px;
+    }
+
+    .tabela3{
+        position: relative;
+        margin-left: 270px;
+        bottom: 426px;
+    }
+
+    .tabela4{
+        position: relative;
+        margin-left: 540px;
+        bottom: 710px;
+    }
+
+    .tabela5{
+        position: relative;
+        margin-left: 810px;
+        bottom: 994px;
+    }
+
+    .tabela6{
+        position: relative;
+        margin-right: 650px;
+        bottom: 950px;
+    }
+
+    .tabela7{
+        align-items: center;
+        text-align: center;
+        position: relative;
+        margin-left: 700px;
+        bottom: 1284px;
+    }
+
+    .tabela8{
+
+        position: relative;
+        bottom: 1265px;
+    }
+
+    .tabela9{
+        position: relative;
+        bottom: 1235px;
+    }
+
+    .tabela10{
+        position: relative;
+        bottom: 0px;
+    }
+
+    
+    .bandeiraspilotos{
+        width: 20px;
+    }
+    
+    .lequipes{
+        max-width: 100px;
+        max-height: 50px;
+        min-height: 50px;
+    }
+    
+    .imgfinal{
+        max-width: 70px;
+    }
+    .pefinal{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    
+    .pilotosequipe{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    
+    .pilotosfinal{
+        background-color: #2909b8;
+        color: #ffffff;
+    }
+    
+    .cabepf{
+        background-color: #2909b8;
+        color: #ffffff;
+        align-items: center;
+        font-size: 25px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .cinza{
+        background-color: #ececec;
+    }
+    
+    .tabelasistema1{
+        align-items: center;
+        text-align: center;
+    }
+    
+    .cabeequipes{
+        background-color: #2909b8;
+        color: white;
+    }
+    
+    .cabepilotos{
+        background-color: #2909b8;
+        color: white;
+    }
+    
+    .cabesistemadepontos{
+        background-color: #2909b8;
+        color: white;
+    }
+
+    table{
+        border-color:  #2f3236;
+        border-width: 1px;
+    }
+tr:hover{
+        background-color: #856fff;
+    }
+
+    #sele:hover{
+        background-color: #856fff;
+    }
+
+    .branca{
+        background-color: #f7f5f5;
+    }
+    
+        
+    
+    
